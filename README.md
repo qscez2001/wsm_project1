@@ -18,4 +18,4 @@ math.log(len(self.documentVectors) / (1 + denominator))
 
 Euclidean_distance
 
-![Image of distance](https://github.com/qscez2001/wsm_project1/distance.png)
+![Image of distance](distance.png)
